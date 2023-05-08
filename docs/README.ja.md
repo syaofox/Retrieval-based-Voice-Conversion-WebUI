@@ -19,7 +19,7 @@ VITSに基づく使いやすい音声変換（voice changer）framework<br><br>
 
 [**更新日誌**](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI/blob/main/Changelog_CN.md)
 
-[**English**](./README.en.md) | [**中文简体**](../README.md) | [**日本語**](./README.ja.md)
+[**English**](./README.en.md) | [**中文简体**](../README.md) | [**日本語**](./README.ja.md) | [**한국어**](./README.ko.md) ([**韓國語**](./README.ko.han.md))
 
 > デモ動画は[こちら](https://www.bilibili.com/video/BV1pm4y1z7Gm/)でご覧ください。
 
@@ -100,7 +100,7 @@ Windowsをお使いの方は、直接`RVC-beta.7z`をダウンロード後に展
 + [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui)
 + [audio-slicer](https://github.com/openvpi/audio-slicer)
 
-## 貢献者(contributer)の皆様の尽力に感謝します
+## 貢献者(contributor)の皆様の尽力に感謝します
 <a href="https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI/graphs/contributors" target="_blank">
   <img src="https://contrib.rocks/image?repo=liujing04/Retrieval-based-Voice-Conversion-WebUI" />
 </a>
